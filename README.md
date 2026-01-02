@@ -303,7 +303,7 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ## ▶️ How to Run Locally
 
-Follow these steps to set up and run the Python From Scratch repository on your local machine
+* Follow these steps to set up and run the Python From Scratch repository on your local machine
 
 ### 1️⃣ Clone the Repository
 
@@ -326,6 +326,8 @@ python3 -m venv venv
 source venv/bin/activate
 
 ### 3️⃣ Install Dependencies
+
+* Upgrade pip and install all required libraries.
 
 pip install --upgrade pip
 
