@@ -71,6 +71,8 @@ This repository is ideal for:
 
 ---
 
+## 🗺️ Learning Path
+
 ### 🧭 Visual Roadmap (Progression View)
 
 ```
@@ -101,13 +103,9 @@ ADVANCED (FOUNDATION LEVEL)
 │
 ```
 
----
-
-## 🗺️ Learning Path
-
 Follow this path top-to-bottom for the best learning experience.
 
-### 1️⃣ Python Fundamentals & Functions & Code Reusability
+### 1️⃣ Python Fundamentals & Functions
 
 📌 Build a strong foundation & Write clean, reusable programs
 
@@ -151,7 +149,7 @@ Follow this path top-to-bottom for the best learning experience.
 
 * Classes & objects
 
-* Constructors (__init__)
+* Constructors (`__init__`)
 
 * Methods & attributes
 
